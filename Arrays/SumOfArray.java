@@ -1,3 +1,7 @@
+// Q) To print sum of elements of an array 
+
+
+
 package Arrays;
 import java.util.Scanner;
 
